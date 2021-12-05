@@ -1,11 +1,11 @@
 # Ahmet Parmaksızoğlu 
 ## Kişisel Bilgileri 
-Yaşı : 24 
-Doğum Yeri : Erzincan
-Uyruk : Türkiye 
-Medeni durumu : Bekar 
-Askerlik durumu : muaf
-Ehliyet : yok 
+Yaşı : 24 <p>
+Doğum Yeri : Erzincan <p>
+Uyruk : Türkiye  <p>
+Medeni durumu : Bekar <p> 
+Askerlik durumu : muaf <p>
+Ehliyet : yok <p>
 ## Eğitim Durumu 
 **ilkokulu** : Erzincan Bahçelievler İlkokulu
 **ilkokulu ve ortaokulu** : Erzurum görme engelliler ortaokulu
