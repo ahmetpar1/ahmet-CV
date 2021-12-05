@@ -7,7 +7,7 @@ Medeni durumu : Bekar <br/>
 Askerlik durumu : muaf <br/>
 Ehliyet : yok <br/>
 ## Eğitim Durumu 
-**ilkokulu** : Erzincan Bahçelievler İlkokulu
+**ilkokulu** : Erzincan Bahçelievler İlkokulu <br/>
 **ilkokulu ve ortaokulu** : Erzurum görme engelliler ortaokulu <br/>
 **lise** : Yıldızkent Nafizbey Mesleki ve Teknik Anadolu Lisesi : halkla ilişkiler ve organizasyon <br/>
 **Üniversite** : Anadolu Üniversitesi : Web tasarım ve kodlama <br/>
