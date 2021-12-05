@@ -1,18 +1,18 @@
 # Ahmet Parmaksızoğlu 
 ## Kişisel Bilgileri 
-Yaşı : 24 <br>
-Doğum Yeri : Erzincan </p>
-Uyruk : Türkiye </p>
-Medeni durumu : Bekar </p>
-Askerlik durumu : muaf </p>
-Ehliyet : yok <p>
+Yaşı : 24 <br/>
+Doğum Yeri : Erzincan <br/>
+Uyruk : Türkiye  <br/> 
+Medeni durumu : Bekar <br/>
+Askerlik durumu : muaf <br/>
+Ehliyet : yok <br/>
 ## Eğitim Durumu 
 **ilkokulu** : Erzincan Bahçelievler İlkokulu
-**ilkokulu ve ortaokulu** : Erzurum görme engelliler ortaokulu
-**lise** : Yıldızkent Nafizbey Mesleki ve Teknik Anadolu Lisesi : halkla ilişkiler ve organizasyon
-**Üniversite** : Anadolu Üniversitesi : Web tasarım ve kodlama 
+**ilkokulu ve ortaokulu** : Erzurum görme engelliler ortaokulu <br/>
+**lise** : Yıldızkent Nafizbey Mesleki ve Teknik Anadolu Lisesi : halkla ilişkiler ve organizasyon <br/>
+**Üniversite** : Anadolu Üniversitesi : Web tasarım ve kodlama <br/>
 ## Yabancı dil 
 ingilizce A2 seviyesinde 
 ## iletişim
-[linkedin](https://www.linkedin.com/in/ahmetpar1/)
-[Bio link](https://ahmetpar1.tabbs.co/)
+[linkedin](https://www.linkedin.com/in/ahmetpar1/) <br/>
+[Bio link](https://ahmetpar1.tabbs.co/) <br/>
