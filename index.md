@@ -1,6 +1,6 @@
 # Ahmet Parmaksızoğlu 
 ## Kişisel Bilgileri 
-Yaşı : 24 </br>
+Yaşı : 24 <br>
 Doğum Yeri : Erzincan </p>
 Uyruk : Türkiye </p>
 Medeni durumu : Bekar </p>
